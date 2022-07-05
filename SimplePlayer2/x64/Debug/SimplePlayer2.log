@@ -1,0 +1,7 @@
+﻿  SimplePlayer2Dlg.cpp
+E:\workspace\SimplePlayer2\SimplePlayer2\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\workspace\SimplePlayer2\SimplePlayer2\SimplePlayer2Dlg.cpp(598,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\workspace\SimplePlayer2\SimplePlayer2\SimplePlayer2Dlg.cpp(565,11): warning C4101: “out_buffer”: 未引用的局部变量
+E:\workspace\SimplePlayer2\SimplePlayer2\SimplePlayer2Dlg.cpp(567,6): warning C4101: “ret”: 未引用的局部变量
+E:\workspace\SimplePlayer2\SimplePlayer2\SimplePlayer2Dlg.cpp(567,11): warning C4101: “got_picture”: 未引用的局部变量
+  SimplePlayer2.vcxproj -> E:\workspace\SimplePlayer2\x64\Debug\SimplePlayer2.exe
